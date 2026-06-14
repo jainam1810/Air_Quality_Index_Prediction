@@ -1,5 +1,5 @@
 
-# 🌆 Mumbai AQI Dashboard
+# Mumbai AQI Dashboard
 
 A real-time, interactive Air Quality Index (AQI) dashboard for **Mumbai**, built using **Streamlit**, **scikit-learn**, and **Folium**. It fetches live air quality data from the **Central Pollution Control Board (CPCB)** and uses a trained **Random Forest** model to predict AQI values when missing.
 
