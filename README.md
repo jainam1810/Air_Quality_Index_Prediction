@@ -7,7 +7,7 @@ A real-time, interactive Air Quality Index (AQI) dashboard for **Mumbai**, built
 
 ## Features
 
-✅ Fetches real-time AQI data from CPCB’s RSS XML feed  
+Fetches real-time AQI data from CPCB’s RSS XML feed  
 ✅ Predicts missing AQI values using a trained machine learning model  
 ✅ Visualizes station-wise AQI data on an interactive map using Folium  
 ✅ Displays pollutant-specific statistics in a clean tabular format  
