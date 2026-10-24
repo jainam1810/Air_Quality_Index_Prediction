@@ -88,7 +88,7 @@ The application interface includes:
 
 ---
 
-## 🎨 AQI Color Scale
+## AQI Color Scale
 
 | AQI Range | Color       | Meaning      |
 | --------- | ----------- | ------------ |
@@ -101,7 +101,7 @@ The application interface includes:
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 Listed in `requirements.txt`:
 
@@ -124,7 +124,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🖼️ Screenshots (Optional)
+## Screenshots (Optional)
 
 You can add screenshots in a folder called `images/` and reference them like:
 
