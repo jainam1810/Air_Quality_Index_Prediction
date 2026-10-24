@@ -78,13 +78,13 @@ streamlit run app.py
 
 ---
 
-## 🗺️ Live Preview
+## Live Preview
 
 The application interface includes:
 
-* 📊 A clean table of pollutant values per station
-* 🗺️ A folium map with color-coded AQI markers
-* 🔄 Auto-calculated predictions when AQI data is missing
+*  A clean table of pollutant values per station
+*  A folium map with color-coded AQI markers
+*  Auto-calculated predictions when AQI data is missing
 
 ---
 
