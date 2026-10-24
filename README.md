@@ -55,14 +55,14 @@ mumbai-aqi-dashboard/
 
 ---
 
-## 📦 Installation
+## Installation
 
-### 🔧 Prerequisites
+### Prerequisites
 
 - Python 3.7 or later
 - pip
 
-### 🛠 Setup Instructions
+### Setup Instructions
 
 ```bash
 # 1. Clone the repository
