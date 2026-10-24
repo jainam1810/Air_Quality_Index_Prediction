@@ -15,7 +15,7 @@ Highlights AQI severity with color-coded markers (Green to Maroon)
 
 ---
 
-## 🧠 ML Model Overview
+## ML Model Overview
 
 The application uses a `RandomForestRegressor` trained on historical AQI data with the following setup:
 
@@ -38,7 +38,7 @@ The application uses a `RandomForestRegressor` trained on historical AQI data wi
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 
